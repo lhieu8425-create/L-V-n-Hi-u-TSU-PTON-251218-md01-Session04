@@ -1,0 +1,15 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+p {
+    background-color: rgb(161, 161, 161);
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #313131;
+    margin-right: 10px;
+}
